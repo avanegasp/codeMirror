@@ -1,0 +1,23 @@
+{
+  "name": "codemirror",
+  "version": "0.1.0",
+  "description": "Editor de texto web",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avanegasp/codeMirror.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/avanegasp/codeMirror#readme",
+  "dependencies": {
+    "browserify": "^14.4.0",
+    "requirejs": "^2.3.4"
+  },
+  "devDependencies": {
+    "babelify": "^7.3.0"
+  }
+}

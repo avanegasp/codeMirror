@@ -1,0 +1,11 @@
+body{
+  height: 100%;
+}
+
+.cm-s-seti.CodeMirror{
+	margin-left:120px;
+}
+
+.CodeMirror{
+  height: 620px;px;
+}
